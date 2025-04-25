@@ -10,6 +10,8 @@ Using analogy of two individuals Tom and Jerry working collaboratively on a proj
 
 1. Initial Setup:
    - Both Tom and Jerry installed Git on their computers and then cloned the project _*miniproject-2*_ to their local machines. So they each have a copy of the project including the files and the version history.
+   - my git dashboard shows the _*miniproject-2*_ project.
+   ![git dashboard screenshot](img/011.gitdashboard-project-2.png)
    - Here, i cloned the the created project to my local machine.
    ![cloned code screenshot](img/00.gitcloneminiproj-2.png)
 

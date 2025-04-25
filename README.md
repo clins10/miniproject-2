@@ -1,4 +1,4 @@
-# Git- Version Control System
+# Git - Version Control System
 
 ## Introduction
 
@@ -30,11 +30,7 @@ Using analogy of two individuals Tom and Jerry working collaboratively on a proj
 
    - After successfully pushing the updates to each branch.
    - I switch to each branch and made a Pull Request (PR) and then switch to the master branch, accepted the PRs, resolved the conflicts, and merged the changes.
-  Tom PR:
-   ![Tom PR](img/1.Tom-PR.png)
-  Merge Jerry PR:
-   ![![merge branches](img/3.merge-branches.png)](img/2.merged-jerryPR-successful.png)
-
+  
 ### Conclusion
 
 This project demonstrated  how teams members can work simultaneously, without overwriting each other's changes.
